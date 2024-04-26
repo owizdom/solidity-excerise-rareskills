@@ -33,4 +33,8 @@ During the bootcamp, I covered a wide range of topics, including:
 
 I am honored to say that I developed a  project in each aspect of the bootcamp, going through each of the 30+ concepts in Solidity.
 
+### Credits
+[Rareskills Solidity Bootcamp](https://github.com/RareSkills/Solidity-Exercises)
+
+### Outro
 Feel free to fork and practice with it too.
